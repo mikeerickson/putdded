@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "meow": "^3.7.0",
+    "node-notifier": "^5.1.2",
+    "yargs": "^8.0.2"
+  }
 }
